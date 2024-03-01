@@ -16,4 +16,5 @@ public class GetMailingMessageConfiguration {
         api.registerBot(getMailingMessage);
         return api;
     }
+
 }

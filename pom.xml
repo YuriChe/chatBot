@@ -35,7 +35,7 @@
             <version>6.8.0</version>
         </dependency>
 
-        <dependency>
+        <!--<dependency>
             <groupId>com.google.api-client</groupId>
             <artifactId>google-api-client</artifactId>
             <version>1.23.0</version>
@@ -51,7 +51,7 @@
             <groupId>com.google.apis</groupId>
             <artifactId>google-api-services-sheets</artifactId>
             <version>v4-rev493-1.23.0</version>
-        </dependency>
+        </dependency>-->
 
     </dependencies>
 
